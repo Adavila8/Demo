@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloISM4300", "HelloISM4300\HelloISM4300.csproj", "{F8B54711-C693-4486-9E96-0B72C0904250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B54711-C693-4486-9E96-0B72C0904250}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F8B54711-C693-4486-9E96-0B72C0904250}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F8B54711-C693-4486-9E96-0B72C0904250}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F8B54711-C693-4486-9E96-0B72C0904250}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
